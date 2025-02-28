@@ -40,7 +40,7 @@ export default function Projects() {
       image: "/placeholder.svg?height=400&width=600",
       tags: ["React", "Tailwind CSS", "Framer Motion"],
       github: "https://github.com/Orgpg/portfolio",
-      demo: "https://portfolio-orgpgvercel.vercel.app/",
+      demo: "https://orgpg-portfolio.vercel.app/",
     },
   ]
 
