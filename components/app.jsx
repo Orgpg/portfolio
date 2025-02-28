@@ -16,7 +16,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900">
+    <div className="min-h-screen bg-white dark:bg-gray-900 font-mono">
       <Navbar activeSection={activeSection} setActiveSection={handleSetActive} />
       <main>
         <section id="home">

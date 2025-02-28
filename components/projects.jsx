@@ -39,8 +39,8 @@ export default function Projects() {
         "A responsive portfolio website built with React and Tailwind CSS. Features smooth scrolling, dark mode, and contact form functionality.",
       image: "/placeholder.svg?height=400&width=600",
       tags: ["React", "Tailwind CSS", "Framer Motion"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github: "https://github.com/Orgpg/portfolio",
+      demo: "https://portfolio-orgpgvercel.vercel.app/",
     },
   ]
 
